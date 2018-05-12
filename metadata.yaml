@@ -1,0 +1,29 @@
+_repo: Ghosts-I-Have-SeenAnd-Other-Psychic-Experiences_39769
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39769-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Tweedale, Violet
+    alias: Tweedale, Violet Chambers
+    deathdate: 1936
+    gutenberg_agent_id: '40220'
+    url: http://www.gutenberg.org/2009/agents/40220
+    wikipedia: http://en.wikipedia.org/wiki/Violet_Tweedale
+description: ''
+gutenberg_issued: '2012-05-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39769'
+  lccn: '19019376'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ghosts'
+- !lcsh 'Parapsychology'
+- !lcc 'BF'
+title: Ghosts I Have Seen, and Other Psychic Experiences
+url: http://www.gutenberg.org/ebooks/39769
